@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root           root           4096 Jun 18 18:03 .
+4 drwxr-xr-x 18 root           root           4096 May 13 01:17 ..
+4 drwxr-xr-x  2 BehzadGhafoury BehzadGhafoury 4096 Jun 18 18:03 BehzadGhafoury
+4 drwx------ 16 pi             pi             4096 Jun 18 18:12 pi
